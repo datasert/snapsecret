@@ -1,0 +1,2 @@
+# snapsecret
+Expirable secrets
